@@ -1,0 +1,4 @@
+#Tue Aug 28 13:25:40 IST 2018
+base.0=/Users/apple/Documents/Projects/React-Native-2018/MeetingBuddy/android/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+path.0=classes.dex
